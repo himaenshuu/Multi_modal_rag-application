@@ -18,7 +18,7 @@ A powerful, easy-to-use platform for question answering over documents, web page
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/himaenshuu/Multi_modal_rag-Q-A-platform
 cd "my app"
 ```
 
@@ -83,7 +83,7 @@ my app/
 ## Notes
 - Temporary files (audio, video, PDFs) are saved as `temp_*` and ignored by git.
 - For research papers, Grobid parser is used for better structure extraction.
-- All data is stored in-memory for demo purposes. For production, use a persistent Qdrant instance.
+- All data is stored in-memory.
 
 ---
 
