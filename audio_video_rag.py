@@ -7,7 +7,7 @@ from qdrant_client import QdrantClient
 from faster_whisper import WhisperModel
 import subprocess
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=os.getenv("GEMINI_API"))
+llm = ChatGoogleGenerativeAI(model=os.getenv("model_name"), google_api_key=os.getenv("GEMINI_API"))
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 client = QdrantClient(":memory:")
 COLLECTION_NAME = "audio_video_rag_collection"
