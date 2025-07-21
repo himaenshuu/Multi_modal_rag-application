@@ -11,7 +11,6 @@ A powerful, easy-to-use platform for question answering over documents, web page
 
 ## Demo
 ![Demo Screenshot](output/img1.png)
-![Demo Screenshot](output/img2.png)
 ![Demo Screenshot](output/img3.png)
 ![Demo Screenshot](output/img4.png)
 ![Demo Screenshot](output/img5.png)
