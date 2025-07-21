@@ -12,7 +12,7 @@ from langchain_community.document_loaders.parsers import GrobidParser
 dotenv.load_dotenv()
 os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI_API")
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", google_api_key=os.getenv("GEMINI_API"))
+llm = ChatGoogleGenerativeAI(model=os.getenv("model_name"), google_api_key=os.getenv("GEMINI_API"))
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
 # In-memory Qdrant for demo;  for production - replace with persistent
