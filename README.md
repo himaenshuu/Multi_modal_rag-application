@@ -10,7 +10,12 @@ A powerful, easy-to-use platform for question answering over documents, web page
 - **In-memory Qdrant vector store**
 
 ## Demo
-![Demo Screenshot](demo_screenshot.png) <!-- Add your screenshot if available -->
+![Demo Screenshot](output/img1.png)
+![Demo Screenshot](output/img2.png)
+![Demo Screenshot](output/img3.png)
+![Demo Screenshot](output/img4.png)
+![Demo Screenshot](output/img5.png)
+![Demo Screenshot](output/img6.png)
 
 ---
 
