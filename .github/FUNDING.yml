@@ -1,0 +1,13 @@
+github: [himanshu-ai, your-second-username, your-third-username, your-fourth-username] # Add up to 4 GitHub usernames
+patreon: himanshupatreon # Your Patreon username
+open_collective: himanshu-collective # Your Open Collective username
+ko_fi: himanshuai # Your Ko-fi username
+tidelift: npm/your-package-name # Replace with platform-name/package-name
+community_bridge: your-project-name # Example: cloud-foundry
+liberapay: himanshu # Your Liberapay username
+issuehunt: himanshu-ai-project # Your IssueHunt username
+lfx_crowdfunding: your-lfx-project-name # Example: cloud-foundry
+polar: himanshu-polar # Your Polar username
+buy_me_a_coffee: himanshucoffee # Your Buy Me a Coffee username
+thanks_dev: himanshu-ai # Your thanks.dev username
+custom: ['https://yourwebsite.com/donate', 'https://yourpaylink.com', 'https://yournewsletter.com/support']
