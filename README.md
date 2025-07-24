@@ -22,7 +22,7 @@ A powerful, easy-to-use platform for question answering over documents, web page
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/himaenshuu/Multi_modal_rag-Q-A-platform
+git clone https://github.com/himaenshuu/Multi_modal_rag-application
 cd "my app"
 ```
 
